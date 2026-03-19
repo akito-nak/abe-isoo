@@ -28,26 +28,9 @@ The Japanese government dissolved the Social Democratic Party on May 23, 1901, t
 
 Abe Isoo was one of the six founders. His participation reflected his interest in Christian socialism and social reform.
 
-**Strategic Calculation**: The founders were not naive about their prospects. They understood that immediate suppression was likely. But they also understood something deeper: that ideas, once clearly articulated in the public sphere, acquire a life independent of their initial political fate. They were planting seeds for future generations.
+## Historical Context
 
-And so they signed their names to the platform of the Shakai Minshuto, knowing what would come.
-
-## The Idea That Survived: From Suppression to Constitution
-
-The Shakai Minshuto was suppressed, but its ideas proved indestructible. Like seeds buried in winter soil, they lay dormant through decades of increasing militarism and authoritarianism, only to sprout in the different soil of postwar Japan.
-
-**The Taisho Democracy Movement (1912-1926)**: Many of the party's original demands resurfaced during Japan's brief experiment with democratic liberalization. Universal male suffrage was achieved in 1925 — nearly a quarter-century after the Shakai Minshuto first demanded it.
-
-**Labor Movement Growth**: The party's emphasis on workers' rights inspired a generation of labor organizers. By the 1920s, Japan had over 300,000 organized workers and a thriving tradition of strikes and collective bargaining — all building on foundations laid by the party's brief but influential existence.
-
-**Christian Socialist Networks**: Abe Isoo's role in founding the party strengthened connections between Christian intellectuals and social reform movements. Christian universities became centers of democratic thinking, producing leaders who would play crucial roles in postwar reconstruction.
-
-**The Pacific War and Beyond**: Even during World War II, when all political dissent was crushed, former party members and their intellectual descendants maintained underground networks of democratic thought. Some survived the war to participate in creating postwar Japan's democratic institutions.
-
-**The 1947 Constitution**: When American occupation authorities worked with Japanese intellectuals to draft a new constitution, many of the Shakai Minshuto's original demands found their way into Japan's fundamental law:
-- Universal suffrage (Article 15)
-- Equal rights regardless of social origin (Article 14)
-- People's sovereignty replacing imperial sovereignty (Article 1)
+The party was founded during the Meiji period when Japan was undergoing rapid modernization and industrialization. The government maintained strict control over political activities.
 - Renunciation of war as a sovereign right (Article 9)
 - Workers' rights to organize and bargain collectively (Article 28)
 - Free universal education (Article 26)
