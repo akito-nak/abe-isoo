@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Noto+Sans+JP:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #1a2744;
+  --cream: #f5f0e8;
+  --red: #c41e3a;
+  --gold: #d4af37;
+  --dark-navy: #0f1a2e;
+  --light-cream: #faf7f2;
+}
+
+@layer base {
+  body {
+    @apply bg-cream font-sans text-navy;
+    font-family: 'Noto Serif JP', 'Georgia', serif;
+    background-color: var(--cream);
+    color: var(--navy);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', 'Georgia', serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block px-6 py-3 bg-red-700 text-white font-semibold rounded hover:bg-red-800 transition-colors duration-200;
+    background-color: var(--red);
+  }
+  .btn-primary:hover {
+    background-color: #a01830;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    @apply text-3xl md:text-4xl font-bold text-navy relative pb-4;
+    color: var(--navy);
+  }
+
+  .section-title::after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-16 h-1;
+    background-color: var(--red);
+  }
+
+  .card {
+    @apply bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .japanese-divider {
+    @apply flex items-center my-8;
+  }
+
+  .japanese-divider::before,
+  .japanese-divider::after {
+    content: '';
+    @apply flex-1 h-px;
+    background: linear-gradient(to right, transparent, var(--gold));
+  }
+
+  .japanese-divider::after {
+    background: linear-gradient(to left, transparent, var(--gold));
+  }
+
+  .baseball-stitch {
+    background-image: repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 10px,
+      rgba(196, 30, 58, 0.05) 10px,
+      rgba(196, 30, 58, 0.05) 20px
+    );
+  }
+}
+
+/* Prose styles for blog content */
+.prose-custom {
+  font-family: 'Noto Serif JP', serif;
+  line-height: 1.8;
+  color: var(--navy);
+}
+
+.prose-custom h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--navy);
+}
+
+.prose-custom h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-custom p {
+  margin-bottom: 1.25rem;
+}
+
+.prose-custom blockquote {
+  border-left: 4px solid var(--gold);
+  padding-left: 1.5rem;
+  font-style: italic;
+  color: #4a5568;
+  margin: 1.5rem 0;
+}
+
+.prose-custom a {
+  color: var(--red);
+  text-decoration: underline;
+}
+
+/* Cherry blossom decorative elements */
+.sakura-dot::before {
+  content: '🌸';
+  margin-right: 0.5rem;
+}
+
+/* Scroll animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
