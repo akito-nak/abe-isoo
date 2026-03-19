@@ -21,6 +21,3 @@ The complete letters have not been comprehensively published or translated. Refe
 Both Abe and Tolstoy wrote about Christian pacifism and social justice. Tolstoy's later works focused on non-violence and religious philosophy. Abe was involved in founding Japan's first socialist political party in 1901.
 
 Both men opposed the Russo-Japanese War (1904-1905). Tolstoy published essays against the war. Abe continued his advocacy for pacifist principles in Japan.
-
-The correspondence between Abe Isoo and Leo Tolstoy demonstrates how intellectual and spiritual connections could transcend national boundaries, even during periods of international tension. Their shared commitment to Christian pacifism provided a foundation for dialogue that influenced both men's work in their respective countries.
-— Leo Tolstoy, letter to Abe Isoo

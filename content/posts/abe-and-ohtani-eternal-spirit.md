@@ -33,22 +33,6 @@ Japanese professional baseball (NPB) was established in the 20th century. The hi
 
 Abe Isoo and Shohei Ohtani represent different eras in Japanese baseball history. Abe contributed to establishing organized baseball in Japan through his work at Waseda University. Ohtani has achieved notable success as a Japanese player in Major League Baseball.
 
-Most remarkably, Ohtani approaches his unique dual role not as twice the work but as twice the opportunity for disciplined excellence. Where others might see the physical impossibility of maintaining elite performance as both pitcher and hitter, he sees the intellectual challenge of optimizing two different skill sets within one body and one mind.
-
-## The Modern Babe Ruth or the Eternal Abe Isoo?
-
-American media often calls Ohtani "the modern Babe Ruth," focusing on the statistical uniqueness of his two-way excellence. But this comparison, while flattering, misses something deeper. Babe Ruth was a singular phenomenon—a larger-than-life personality whose statistical achievements matched his outsized character.
-
-Ohtani represents something different: he is baseball's moral ideal made manifest. His excellence is not separate from his character but emerges directly from it. He doesn't transcend baseball's traditional values—he perfects them.
-
-In this sense, Ohtani is not the modern Babe Ruth. He is the eternal Abe Isoo—the living proof that the Japanese educator's vision of what baseball could make of a human being was not merely inspirational rhetoric but practical prophecy.
-
-## Breaking Barriers, Building Bridges
-
-Just as Abe Isoo used baseball to bridge cultural gaps and promote international understanding, Ohtani uses his platform to connect Japanese and American baseball cultures. His success demonstrates the universal relevance of dedication, respect, and continuous improvement.
-
-American players now study Japanese training methods. MLB teams employ Japanese-style detailed preparation techniques. The concept of "continuous improvement" (kaizen) has become mainstream in American baseball development programs.
-
 Yet Ohtani has accomplished this cultural exchange through his performance and conduct—an approach that reflects the educational methods Abe Isoo employed in introducing baseball to Japan.
 
 ## The Legacy Continues
