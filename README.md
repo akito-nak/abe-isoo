@@ -40,7 +40,7 @@ This site celebrates the remarkable life of Abe Isoo through:
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/abe-isoo.git
+git clone https://github.com/akito-nak/abe-isoo.git
 cd abe-isoo
 npm install
 ```

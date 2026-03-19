@@ -13,7 +13,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Date", name: "date", widget: "date", format: "YYYY-MM-DD" }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
       - { label: "Author", name: "author", widget: "string", default: "Abe Isoo Archive" }
       - label: "Tags"
