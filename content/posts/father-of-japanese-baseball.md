@@ -46,7 +46,7 @@ But for Abe, the tournament's deeper significance lay in its timing and symbolis
 
 In this climate, baseball offered something precious and radical: a form of competitive excellence that built internal character rather than external aggression. While government officials spoke of conquering territories, Abe spoke of conquering one's own weaknesses. While newspapers celebrated military victories over foreign enemies, Abe celebrated young men learning to respect foreign opponents and learn from defeat.
 
-"We are not playing America's game," he wrote in his tournament program notes. "We are discovering Japan's character through America's gift."
+Abe's approach to introducing baseball emphasized its potential for developing Japanese character and values, rather than simply importing American culture. He viewed the sport as a vehicle for demonstrating Japanese principles of teamwork, discipline, and fair play.
 
 ## The Legendary 1906 Tour: Waseda vs. American Universities
 

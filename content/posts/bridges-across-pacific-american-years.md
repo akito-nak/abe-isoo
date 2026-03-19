@@ -28,7 +28,7 @@ The America that welcomed Abe Isoo in 1890 was a nation in the midst of unpreced
 
 Abe's initial challenges were linguistic and cultural. His English, learned from textbooks in Japan, proved inadequate for theological discussion and American social interaction. He spent his first semester attending classes he could barely understand, taking detailed notes in Japanese characters, and spending evenings with dictionaries trying to decode his professors' lectures.
 
-But he also experienced intellectual shock that would prove transformative. "In Japan," he wrote in his diary, "I learned Christianity as individual piety — as personal relationship between soul and God. Here I discover Christianity as social responsibility — as obligation to transform the world according to God's justice."
+But he also experienced intellectual shock that would prove transformative. The Social Gospel movement he encountered represented a fundamental reorientation of Christian thought that would deeply influence his later work in Japan.
 
 ### Second Year (1891-1892): The Social Gospel Revelation
 
@@ -38,13 +38,13 @@ Under the influence of professors like Newman Smyth and Nathaniel Burton, Abe en
 - **Individual salvation** was meaningless without communal transformation — one could not be truly Christian while remaining indifferent to social suffering.
 - **Christian mission** required working for economic justice, racial equality, and international peace — not merely preaching personal morality.
 
-"This is Christianity as I never imagined it," Abe wrote to a friend in Japan. "Not escape from the world, but engagement with it. Not acceptance of injustice as God's will, but resistance to injustice as God's command."
+This theological reorientation would become central to Abe's later synthesis of Christian and Japanese social thought.
 
 ### Third Year (1892-1893): Discovering American Democracy
 
 Beyond theology, Abe immersed himself in American political and social thought. He read extensively in American history, attended political rallies, and witnessed local elections. The concept of democratic self-governance fascinated him.
 
-"In Japan, we have Emperor and subjects," he noted. "Here, every citizen is both ruler and ruled. This requires a different kind of character — not obedience to authority, but responsibility for community."
+The contrast between Japan's hierarchical imperial system and American democratic ideals fascinated him. The concept that citizens could be both governors and governed represented a fundamental challenge to traditional Japanese political thought.
 
 He also encountered America's contradictions: the gap between democratic ideals and racial oppression, between Christian profession and economic exploitation. These contradictions sharpened rather than diminished his commitment to social reform.
 
@@ -52,9 +52,9 @@ He also encountered America's contradictions: the gap between democratic ideals 
 
 It was during his fourth year that Abe first witnessed organized baseball. Hartford Seminary had a team that played against other colleges, and Abe was initially mystified by American enthusiasm for what seemed merely a children's game.
 
-But as he watched more carefully, he began to see something profound: a sport that required individual skill in service of team success, that taught players to accept both victory and defeat with grace, that demanded respect for opponents and officials, that rewarded preparation and punished shortcuts.
+As he observed the game more carefully, he began to see profound educational possibilities: a sport that required individual skill in service of team success, that taught players to accept both victory and defeat with grace, that demanded respect for opponents and officials, and that rewarded preparation while punishing shortcuts.
 
-"This game," he wrote, "is democracy in action — nine individuals who must function as one, who succeed only through cooperation, who face failure and learn from it. It teaches more about character than most sermons."
+This understanding would later inform his revolutionary approach to baseball education in Japan.
 
 He convinced his fellow international students to form an informal baseball team, becoming — unknowingly — the first Japanese person to organize a baseball team for educational purposes.
 
@@ -62,9 +62,7 @@ He convinced his fellow international students to form an informal baseball team
 
 Abe's American years also exposed him to the contradictions between American ideals and American realities. He witnessed the economic panic of 1893, which left millions unemployed while robber barons accumulated unprecedented wealth. He observed racial segregation that contradicted democratic principles. He saw American foreign policy that preached liberty while practicing imperialism.
 
-Rather than disillusion him with American ideas, these contradictions convinced him that the problem lay not with democratic and Christian ideals but with their incomplete application. "America has discovered the right principles," he concluded, "but has not yet found the courage to live by them fully."
-
-This insight would prove crucial to his later work in Japan. He would return not as an uncritical advocate for Western ideas, but as someone who understood both their revolutionary potential and the obstacles to their realization.
+Rather than disillusion him with American ideas, these contradictions convinced him that the problem lay not with democratic and Christian ideals but with their incomplete application. This insight would prove crucial to his later work in Japan. He would return not as an uncritical advocate for Western ideas, but as someone who understood both their revolutionary potential and the obstacles to their realization.
 
 ## The Intellectual Synthesis: East Meets West
 
@@ -72,7 +70,7 @@ This insight would prove crucial to his later work in Japan. He would return not
 
 During his final year at Hartford, Abe worked on what would become his lifelong project: synthesizing Eastern and Western philosophical traditions. He argued that Confucian emphasis on social harmony complemented rather than contradicted Christian commitment to social justice.
 
-"Confucius teaches us that individual virtue serves community flourishing," he wrote in his senior thesis. "Christ teaches us that community flourishing requires justice for the oppressed. Together, they provide a complete ethic for social transformation."
+His senior thesis demonstrated the intellectual synthesis he had developed, showing how Confucian ethical principles could be combined with Christian social gospel theology to address modern social problems. This synthesis approach would later characterize his career as an educator and social reformer in Japan.
 
 ### Baseball as Cultural Bridge
 
