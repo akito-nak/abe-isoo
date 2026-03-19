@@ -1,47 +1,41 @@
 ---
-title: "Abe Isoo and Leo Tolstoy: Correspondence"
+title: "Abe Isoo and Leo Tolstoy: Wartime Correspondence and Pacifist Principles"
 date: "2024-02-10"
-excerpt: "Historical records indicate correspondence between Japanese educator Abe Isoo and Russian author Leo Tolstoy."
+excerpt: "During the Russo-Japanese War, Abe Isoo corresponded personally with Leo Tolstoy and published Tolstoy's letter in the antiwar newspaper Heimin Shimbun, causing a significant stir among Japanese intellectuals."
 author: "Abe Isoo Archive"
-tags: ["tolstoy", "correspondence", "history"]
+tags: ["tolstoy", "correspondence", "pacifism", "russo-japanese-war"]
 ---
 
-## Background
+## Antiwar Advocacy During the Russo-Japanese War
 
-Abe Isoo (1865-1949) was a Japanese Christian educator and professor at Waseda University. Leo Tolstoy (1828-1910) was a Russian author and social reformer.
+During the Russo-Japanese War (1904–1905), Abe Isoo opposed the war and advocated non-cooperation, positioning himself among a small group of Japanese intellectuals who challenged the widespread popular support for the conflict. His opposition was grounded in his Christian pacifist principles and his growing socialist convictions, both of which led him to view war as fundamentally incompatible with moral progress and social justice.
 
-## Documented Correspondence
+Abe's antiwar stance was not merely theoretical but involved active participation in organized opposition movements. He contributed to and supported the antiwar newspaper Heimin Shimbun, which provided a platform for dissenting voices during a period when criticism of the war effort was both unpopular and potentially dangerous.
 
-Japanese biographical sources indicate that Abe Isoo and Leo Tolstoy exchanged correspondence during the early 1900s. Both men were interested in Christian pacifism and social reform.
+## The Tolstoy Correspondence
 
-The complete letters have not been comprehensively published or translated. References to their correspondence appear in Japanese historical materials about Abe Isoo's life.
+Abe initiated correspondence with Leo Tolstoy by sending him both a letter and a paper containing an English article. Tolstoy responded with a letter written at Yasnaya Polyana, dated by Abe's son-in-law Hayao Nakahara as written between October 23 and November 5, 1904.
 
-## The Russo-Japanese War Context
+In his response, addressed "Dear Friends Iso Abe," Tolstoy wrote that he had received both Abe's letter and his paper, thanking him for both. Tolstoy expressed: "Though I never doubted that there are in Japan a great many reasonable moral and religious men, who are opposed to the horrible crime of war, which is now perpetrated by both strayed and stupefied nations, I was very glad to get the proof of it. It is a great joy for me to know that I have friends and coworkers in Japan, with which I can be in friendly intercourse."
 
-The Russo-Japanese War (1904-1905) marked the first time an Asian nation defeated a European power in modern warfare. The war began over competing interests in Manchuria and Korea. Japan's victory shocked the international community and established Japan as a major world power.
+Tolstoy closed his letter: "Excuse me for the liberty I take to discuss your creed and for my bad English and believe me to be your true friend. Leo Tolstoy. I will be always glad to have news from you." A facsimile of the original handwritten letter is held in the Waseda University archive.
 
-The war had significant social and economic costs for both nations. In Russia, military defeats contributed to the 1905 Revolution. In Japan, despite victory, the war created economic strain and social tensions that influenced political movements.
+## Publication and Intellectual Impact
 
-## Pacifist Opposition
+Abe published Tolstoy's letter in the antiwar newspaper Heimin Shimbun in 1904, where it caused a significant stir among Japanese intellectuals. The publication had a direct and documented influence on prominent Japanese thinkers, most notably Kawakami Hajime, who was deeply moved by Tolstoy's humanitarianism as a direct result of reading the letter and subsequently read Tolstoy's "My Religion."
 
-Tolstoy wrote extensively against the war, including his 1904 essay "Bethink Yourselves!" which condemned the conflict and called for peaceful resolution. He viewed the war as contrary to Christian principles and human progress.
+The correspondence represented more than a simple exchange between two individuals; it demonstrated the existence of an international network of Christian pacifists who maintained communication across national boundaries during wartime. Tolstoy's reference to having "friends and coworkers in Japan" suggested his awareness of a broader community of Japanese Christians and humanitarians who shared his opposition to militarism.
 
-In Japan, opposition to the war was limited but significant among Christian intellectuals and early socialists. Abe Isoo and other members of the dissolved Social Democratic Party maintained their pacifist stance despite government pressure and public support for the war.
+## Broader Context of Christian Pacifism
 
-## International Christian Pacifism
+The correspondence occurred within the context of international Christian pacifist movements that were growing during the early twentieth century. Both men represented different national expressions of the same underlying conviction that Christian principles were incompatible with warfare and that moral progress required the development of peaceful means of resolving international conflicts.
 
-The early 1900s saw growth in international Christian pacifist movements. The World Peace Congress met regularly, and organizations like the International Peace Bureau (established 1891) promoted peaceful conflict resolution. Christian pacifists across nations often corresponded to share ideas and coordinate activities.
+Tolstoy's letter specifically acknowledged Abe's "creed" and discussed their shared religious and moral foundations. This theological dimension was crucial to their correspondence, as both men understood pacifism not as a political strategy but as a moral imperative derived from their Christian faith.
 
-## Tolstoy's Philosophy
+## Continued Antiwar Activities
 
-Tolstoy's later works, including "The Kingdom of God Is Within You" (1894), influenced Christian anarchist and pacifist thought worldwide. His ideas about non-violent resistance later influenced figures like Mahatma Gandhi, who corresponded with Tolstoy from 1909-1910.
+When the antiwar newspaper Heimin Shimbun was subsequently banned by the Japanese government, Abe started his own magazine, Shinkigen (A New Era), as a platform to promote parliamentary socialism and continue his advocacy for peaceful approaches to social and political change.
 
-## Socialist Movement Context
+The correspondence with Tolstoy thus represented both a personal connection between two like-minded individuals and a broader pattern of international intellectual exchange that sustained antiwar and socialist movements during periods of nationalist fervor. The preservation of the original letter at Waseda University and its continued study by scholars demonstrates the lasting significance of this exchange for understanding both Japanese intellectual history and the international dimensions of early twentieth-century pacifist movements.
 
-The early 1900s marked the growth of international socialist movements. The Second International, founded in 1889, connected socialist parties across nations. Japanese socialists, despite government suppression, maintained connections with international socialist thought through correspondence and translated works.
-
-## Common Interests
-
-Both Abe and Tolstoy wrote about Christian pacifism and social justice. Tolstoy's later works focused on non-violence and religious philosophy. Abe was involved in founding Japan's first socialist political party in 1901.
-
-Both men opposed the Russo-Japanese War (1904-1905). Tolstoy published essays against the war. Abe continued his advocacy for pacifist principles in Japan.
+The fact that Abe initiated the correspondence and then publicized Tolstoy's response reveals his understanding of the importance of international validation for domestic opposition movements. By demonstrating that respected international figures shared Japanese pacifists' concerns about the war, Abe helped legitimize antiwar sentiment among Japanese intellectuals who might otherwise have felt isolated in their opposition to popular nationalism.
