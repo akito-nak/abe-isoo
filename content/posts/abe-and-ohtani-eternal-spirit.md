@@ -27,11 +27,39 @@ Shohei Ohtani began his professional career with the Hokkaido Nippon-Ham Fighter
 
 Baseball was introduced to Japan in 1872 by American teacher Horace Wilson at Kaisei Academy. Japanese universities including Waseda, Keio, Meiji, and Imperial University participated in baseball competitions in the early 1900s.
 
-Japanese professional baseball (NPB) was established in the 20th century. The high school baseball tournament at Koshien became a major annual event in Japan.
+University baseball became highly organized with the formation of the Big Six University Baseball League in 1925. The annual university championships drew large crowds and established baseball as a major spectator sport in Japan.
+
+Japanese professional baseball (NPB) was established in the 20th century. The first professional team, Dai Nippon Tokyo Yakyu Club (later the Tokyo Giants), was founded in 1934. NPB was officially organized into two leagues in 1950.
+
+The high school baseball tournament at Koshien became a major annual event in Japan, beginning in 1915. The summer and spring tournaments continue to be among Japan's most-watched sporting events, with nationwide television coverage and cultural significance extending far beyond sports.
+
+## International Baseball Development
+
+Japanese baseball developed its own characteristics while maintaining connections to American baseball. Japanese teams emphasized fundamentals, conditioning, and team discipline. The concept of "yakyu" (field ball) became distinct from American "baseball" in its cultural implementation.
+
+Starting in the 1990s, increasing numbers of Japanese players joined Major League Baseball. Hideo Nomo became the first successful Japanese pitcher in MLB (1995), followed by position players like Ichiro Suzuki (2001) and Hideki Matsui (2003).
+
+The exchange between Japanese and American baseball has been bidirectional. American players have played in NPB since the 1960s, while Japanese training methods and attention to fundamentals have influenced American baseball development programs.
+
+## Modern Era Development
+
+The World Baseball Classic, established in 2006, has provided a platform for international baseball competition. Japan won the first two tournaments (2006, 2009) and again in 2023, demonstrating the high level of Japanese baseball development.
+
+MLB has expanded its international presence, including regular season games played in Japan and extensive scouting of Japanese players. The posting system allows NPB players to negotiate with MLB teams, facilitating player movement between the leagues.
+
+## Contemporary Success
+
+Shohei Ohtani's success as a two-way player represents a unique achievement in modern baseball. His ability to excel as both pitcher and hitter at the highest level demonstrates exceptional athletic ability and preparation.
+
+Yoshinobu Yamamoto's record-setting contract with the Los Angeles Dodgers in 2024 ($325 million over 12 years) reflects the value placed on top Japanese talent by MLB teams.
+
+Japanese players continue to make significant contributions to MLB, with multiple All-Stars, MVP winners, and World Series champions representing the success of players developed through the Japanese baseball system.
 
 ## Conclusion
 
 Abe Isoo and Shohei Ohtani represent different eras in Japanese baseball history. Abe contributed to establishing organized baseball in Japan through his work at Waseda University. Ohtani has achieved notable success as a Japanese player in Major League Baseball.
+
+The development from Abe's early involvement in university baseball to Ohtani's MLB success demonstrates the growth of baseball in Japan from an introduced sport to an integral part of Japanese culture with international competitive excellence.
 
 Yet Ohtani has accomplished this cultural exchange through his performance and conduct—an approach that reflects the educational methods Abe Isoo employed in introducing baseball to Japan.
 
