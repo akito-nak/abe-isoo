@@ -8,7 +8,9 @@ tags: ["ohtani", "philosophy", "baseball", "legacy", "excellence"]
 
 ## Two Revolutionaries, One Century Apart
 
-In 1901, when Abe Isoo first stepped onto Waseda University's crude baseball diamond, he carried a revolutionary idea: that this American game could become a vehicle for building Japanese character. In 2018, when Shohei Ohtani took his first at-bat for the Los Angeles Angels, he carried an equally revolutionary idea: that artificial limitations on what a baseball player could be were meant to be shattered.
+In 1901, when Abe Isoo first stepped onto Waseda University's crude baseball diamond, he carried a revolutionary idea: that this American game could become a vehicle for building Japanese character. In 2018, when Shohei Ohtani took his first at-bat in Major League Baseball, he carried an equally revolutionary idea: that artificial limitations on what a baseball player could be were meant to be shattered.
+
+Six years later, having won two American League MVP awards (2021, 2023), signed the most lucrative contract in sports history with the Los Angeles Dodgers ($700 million over 10 years), and captured his first World Series championship in 2024, Ohtani has not merely succeeded—he has redefined what excellence in baseball looks like.
 
 Between these two moments lies more than a century of Japanese baseball history. Yet in watching Ohtani play—his meticulous preparation, his respectful demeanor, his relentless pursuit of improvement—we see not just exceptional talent, but the living embodiment of every principle that Abe Isoo taught about what baseball could make of a human being.
 
@@ -28,9 +30,11 @@ When critics said no modern player could succeed as both pitcher and hitter, Oht
 
 Abe taught that "the most beautiful play in baseball is not the home run but the sacrifice that advances a teammate." Ohtani, despite being baseball's most celebrated individual talent, consistently demonstrates this principle.
 
-Watch him in the Angels clubhouse, spending extra time helping younger pitchers with their mechanics. Observe how he celebrates teammates' successes with the same enthusiasm he shows for his own achievements. Notice how he approaches each at-bat not as a chance for personal glory but as an opportunity to contribute to team success—whether through an RBI single, a stolen base, or drawing a crucial walk.
+Watch him in the Dodgers clubhouse, spending extra time helping younger pitchers with their mechanics. Observe how he celebrates teammates' successes with the same enthusiasm he shows for his own achievements. Notice how he approaches each at-bat not as a chance for personal glory but as an opportunity to contribute to team success—whether through an RBI single, a stolen base, or drawing a crucial walk.
 
-When the Angels struggled during Ohtani's tenure, he never publicly expressed frustration despite being baseball's most valuable player on a mediocre team. Instead, he embodied Abe's teaching that true champions elevate those around them through their own commitment to excellence.
+This approach reached its pinnacle during the 2024 World Series, where Ohtani's leadership and performance helped deliver the Dodgers' first championship since 1988. His celebration was characteristically measured—joy tempered by gratitude and respect for the game that had given him so much.
+
+When his former team, the Angels, struggled during Ohtani's six-year tenure there, he never publicly expressed frustration despite being baseball's most valuable player on a mediocre team. His 2023 decision to sign with the Dodgers was made not with bitterness toward his former organization, but with characteristic thoughtfulness about where he could best contribute to winning while continuing to grow as both player and person. Instead of dwelling on past disappointments, he embodied Abe's teaching that true champions elevate those around them through their own commitment to excellence.
 
 ### Respect (Sonkei): The Universal Language of Honor
 
@@ -69,6 +73,8 @@ Yet Ohtani has accomplished this cultural exchange not through preaching but thr
 ## The Legacy Continues
 
 When Abe Isoo died in 1949, he could not have imagined that Japanese players would one day dominate American baseball's highest honors. He could not have foreseen that a young man from Iwate Prefecture would become the most celebrated athlete on Earth while embodying every principle he had taught about baseball's capacity to build human character.
+
+Yet by 2024, Ohtani had achieved what seemed impossible: two MVP awards, a World Series championship, and a $700 million contract that briefly stood as the most lucrative in sports history (before being surpassed by Juan Soto's $765 million deal). These achievements represent more than athletic success—they validate Abe's vision that excellence rooted in character creates lasting value that transcends any single performance.
 
 But perhaps he knew something deeper: that ideas rooted in truth have a way of manifesting themselves across time and space, that seeds planted in one century can bloom in another, that the proper cultivation of human potential creates results that transcend the gardener's wildest dreams.
 
