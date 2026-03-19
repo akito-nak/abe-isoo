@@ -24,7 +24,7 @@ Abe and Tolstoy discovered in each other not just intellectual agreement but spi
 
 **Pacifism as Christian Imperative**: Both men believed that war was not merely politically unfortunate but spiritually catastrophic — a fundamental betrayal of Christian teaching. They viewed the Sermon on the Mount as requiring practical application to international relations rather than remaining merely aspirational.
 
-Tolstoy responded: "You understand what so many Christian leaders refuse to see — that there is no such thing as a 'just war' for those who follow Christ. Every bullet that kills is fired in defiance of 'Thou shalt not kill.'"
+Tolstoy shared Abe's view that Christian pacifism was an absolute principle, not a flexible guideline that could be abandoned during times of conflict.
 
 This was a dangerous position for both men to hold. Russia was building toward imperial expansion in Asia, while Japan was asserting itself as a regional power. Both governments viewed pacifist intellectuals with deep suspicion.
 
@@ -66,5 +66,5 @@ The friendship between these two men reminds us that ideas do not respect border
 
 ---
 
-*"In all the world, there are more people who believe in love than believe in force. We simply have not yet found each other."*
+The correspondence between Abe Isoo and Leo Tolstoy demonstrates how intellectual and spiritual connections could transcend national boundaries, even during periods of international tension. Their shared commitment to Christian pacifism provided a foundation for dialogue that influenced both men's work in their respective countries.
 — Leo Tolstoy, letter to Abe Isoo

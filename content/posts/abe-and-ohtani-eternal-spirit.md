@@ -16,19 +16,17 @@ Between these two moments lies more than a century of Japanese baseball history.
 
 ## The Philosophy Made Flesh
 
-Abe Isoo's famous "Seven Pillars of Baseball Character" were not merely coaching guidelines—they were a blueprint for human development. In Shohei Ohtani, we witness each pillar in daily action:
+Abe Isoo's approach to baseball emphasized character development, discipline, and respect for the game. His educational philosophy viewed baseball as a means of developing moral qualities in young people. In Shohei Ohtani's approach to professional baseball, we can observe many of the values that Abe championed:
 
-### Perseverance (Nintai): The Way of Continuous Becoming
+### Perseverance: The Way of Continuous Becoming
 
-"The batter who fails seven times out of ten but keeps stepping to the plate demonstrates the heart of a true warrior," Abe taught. Ohtani has made a career of embracing what others call failure and transforming it into fuel for growth.
+Abe Isoo emphasized the importance of perseverance and continuous improvement in baseball and life. Ohtani has made a career of embracing challenges and transforming setbacks into opportunities for growth.
 
 When critics said no modern player could succeed as both pitcher and hitter, Ohtani didn't argue—he demonstrated. When Tommy John surgery threatened to end his pitching career in 2018, he didn't despair—he used the recovery time to perfect his hitting. When early struggles in MLB led some to question his approach, he didn't compromise his vision—he refined his execution until the vision became undeniable reality.
 
-"Every 'no' is just information about what I need to improve," Ohtani has said, unconsciously echoing Abe's teaching that obstacles are not barriers but teachers.
+### Teamwork: The Art of Selfless Excellence
 
-### Teamwork (Kyōdō): The Art of Selfless Excellence
-
-Abe taught that "the most beautiful play in baseball is not the home run but the sacrifice that advances a teammate." Ohtani, despite being baseball's most celebrated individual talent, consistently demonstrates this principle.
+Abe emphasized the importance of team-first mentality and selfless play. Ohtani, despite being baseball's most celebrated individual talent, consistently demonstrates commitment to team success over personal statistics.
 
 Watch him in the Dodgers clubhouse, spending extra time helping younger pitchers with their mechanics. Observe how he celebrates teammates' successes with the same enthusiasm he shows for his own achievements. Notice how he approaches each at-bat not as a chance for personal glory but as an opportunity to contribute to team success—whether through an RBI single, a stolen base, or drawing a crucial walk.
 
@@ -36,19 +34,17 @@ This approach reached its pinnacle during the 2024 World Series, where Ohtani's 
 
 When his former team, the Angels, struggled during Ohtani's six-year tenure there, he never publicly expressed frustration despite being baseball's most valuable player on a mediocre team. His 2023 decision to sign with the Dodgers was made not with bitterness toward his former organization, but with characteristic thoughtfulness about where he could best contribute to winning while continuing to grow as both player and person. Instead of dwelling on past disappointments, he embodied Abe's teaching that true champions elevate those around them through their own commitment to excellence.
 
-### Respect (Sonkei): The Universal Language of Honor
+### Respect: The Universal Language of Honor
 
-Perhaps nowhere is Abe's influence more visible than in Ohtani's approach to opponents, officials, and the game itself. Before each pitching appearance, watch Ohtani bow slightly to the mound—not as mere ritual, but as genuine acknowledgment of the opportunity to compete at baseball's highest level.
+Abe Isoo's educational philosophy emphasized respect for opponents, officials, and the game itself. This approach has become a hallmark of Ohtani's professional demeanor. Before each pitching appearance, watch Ohtani bow slightly to the mound—not as mere ritual, but as genuine acknowledgment of the opportunity to compete at baseball's highest level.
 
 After striking out the game's greatest hitters, he shows no emotion beyond quiet satisfaction. After surrendering home runs to those same hitters, he tips his cap in acknowledgment of their skill. When umpires make questionable calls, he accepts them without argument, understanding that respect for authority is respect for the game's structure.
 
-This approach has earned Ohtani something remarkable: universal admiration from opponents. Mike Trout calls him "a gift to baseball." Opposing managers schedule their rotations to watch him play. Veteran players seek him out for conversations about approach and philosophy.
+This approach has earned Ohtani something remarkable: universal admiration from opponents. His respectful conduct both on and off the field reflects values that Abe Isoo championed in his educational work.
 
-"Respect is not about being weak," Abe taught. "It is about being so strong that you can afford to honor others." Ohtani embodies this paradox perfectly.
+### Self-Discipline: The Architecture of Excellence
 
-### Self-Discipline (Jiritsu): The Architecture of Excellence
-
-Abe believed that "before the first pitch of any season, you must have already thrown ten thousand practice pitches in your heart." Ohtani's preparation has become legendary throughout MLB—not just for its intensity, but for its thoughtfulness.
+Abe Isoo believed thorough preparation was essential for success in baseball and life. Ohtani's preparation has become legendary throughout MLB—not just for its intensity, but for its thoughtfulness.
 
 He arrives at the stadium hours before teammates, methodically working through routines that address every aspect of his game. He studies video not just of his own performance but of opposing pitchers and hitters, building mental libraries of tendencies and patterns. He maintains precise sleep and nutrition schedules, understanding that physical preparation is inseparable from mental and spiritual readiness.
 
@@ -64,11 +60,11 @@ In this sense, Ohtani is not the modern Babe Ruth. He is the eternal Abe Isoo—
 
 ## Breaking Barriers, Building Bridges
 
-Just as Abe Isoo used baseball to bridge the gap between Eastern and Western values, Ohtani uses his platform to bridge the gap between Japanese and American baseball cultures. His success has not required abandoning Japanese principles but demonstrating their universal relevance.
+Just as Abe Isoo used baseball to bridge cultural gaps and promote international understanding, Ohtani uses his platform to connect Japanese and American baseball cultures. His success demonstrates the universal relevance of dedication, respect, and continuous improvement.
 
 American players now study Japanese training methods. MLB teams employ Japanese-style detailed preparation techniques. The concept of "continuous improvement" (kaizen) has become mainstream in American baseball development programs.
 
-Yet Ohtani has accomplished this cultural exchange not through preaching but through performance—precisely the method Abe Isoo pioneered. "Let your play be your sermon," Abe taught his Waseda players. "Let your character be your curriculum."
+Yet Ohtani has accomplished this cultural exchange through his performance and conduct—an approach that reflects the educational methods Abe Isoo employed in introducing baseball to Japan.
 
 ## The Legacy Continues
 
@@ -78,13 +74,10 @@ Yet by 2024, Ohtani had achieved what seemed impossible: two MVP awards, a World
 
 But perhaps he knew something deeper: that ideas rooted in truth have a way of manifesting themselves across time and space, that seeds planted in one century can bloom in another, that the proper cultivation of human potential creates results that transcend the gardener's wildest dreams.
 
-In Shohei Ohtani's refusal to accept limitations, we see Abe Isoo's revolutionary spirit. In his respectful excellence, we see the "Waseda Way" practiced on baseball's biggest stage. In his bridge-building between cultures, we see the continuation of a conversation that began when a young Japanese educator returned from America with a vision of what a game could become.
+In Shohei Ohtani's approach to excellence, we see values that connect to Abe Isoo's educational philosophy. In his respectful conduct, we see principles that Abe championed in his work at Waseda University. In his bridge-building between cultures, we see the continuation of the international perspective that Abe brought to Japanese baseball.
 
-The true measure of Abe Isoo's legacy is not in the championships his teams won or the students he taught. It is in the fact that 125 years later, the values he championed continue to shape how the world's greatest baseball player approaches his craft.
-
-Ohtani may never have heard Abe's famous saying: "The true aim of baseball is not the winning of games, but the building of men." But every time he steps onto a major league field, he proves that this vision was not merely the hope of one Japanese educator—it was a prophecy about what baseball, properly understood and practiced, could always become.
+The true measure of Abe Isoo's legacy in Japanese baseball is visible in how contemporary players like Ohtani approach the game—with discipline, respect, and commitment to continuous improvement. These values, which Abe emphasized in his educational work, continue to influence Japanese baseball culture generations later.
 
 ---
 
-*"When you watch Ohtani play, you are watching the dream of Abe Isoo made real—not just excellence, but excellence achieved through character, not just success, but success that honors both the game and the player."*
-— Modern Japanese Baseball Philosophy
+Ohtani's success demonstrates how the educational values that Abe Isoo brought to Japanese baseball—discipline, respect, perseverance, and character development—remain relevant in the modern game.

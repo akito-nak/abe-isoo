@@ -12,7 +12,7 @@ When Abe Isoo returned from his studies at Hartford Seminary in Connecticut in 1
 
 Baseball had been introduced to Japan in 1872 by American teacher Horace Wilson at Kaisei Academy, but it remained largely a curiosity — a foreign novelty practiced by a few enthusiasts. It was Abe Isoo who gave it institutional roots, philosophical depth, and spiritual meaning. At Waseda University, where he would teach for over four decades (1899-1940), Abe did not simply coach a team. He built a culture, developed a philosophy, and created what would become the foundation of Japanese baseball's unique character.
 
-The first time Abe stepped onto Waseda's makeshift diamond in 1901, he faced skeptical students who saw this American game as potentially undermining traditional Japanese values. "Sensei," one student challenged him, "how can swinging a stick teach us bushido?" Abe's response would become legendary: "Watch how a batter faces a fastball, and you will see bushido in its purest form."
+The first time Abe stepped onto Waseda's makeshift diamond in 1901, he faced skeptical students who questioned how this American game aligned with traditional Japanese values. Abe's approach was to demonstrate how baseball could develop character traits valued in Japanese culture, including discipline, perseverance, and teamwork.
 
 ## More Than a Sport: The Abe Philosophy
 
@@ -40,7 +40,7 @@ These principles were not imposed upon baseball — Abe believed they were alrea
 
 On a crisp November morning in 1905, Abe Isoo stood before a crowd of over 3,000 spectators at Tokyo's Shibaura Athletic Grounds for the opening ceremony of Japan's first inter-collegiate baseball tournament. The assembled teams — Waseda, Keio, Meiji, and Imperial University — represented more than athletic competition. They embodied Abe's vision of a new Japan.
 
-The tournament was both sensation and statement. Newspapers covered every inning with the intensity usually reserved for political events. The Yomiuri Shimbun declared: "This is not merely sport — this is the future character of our youth on display." When Waseda defeated Keio 11-9 in the championship game, the victory celebration lasted until dawn, with students singing both American baseball songs and traditional Japanese ballads.
+The tournament generated significant public interest. When Waseda won the championship game against Keio, the victory was celebrated as validation of Abe's educational approach to baseball.
 
 But for Abe, the tournament's deeper significance lay in its timing and symbolism. The early 20th century was a pivotal moment when Japan was asserting itself on the world stage. The Russo-Japanese War had just ended in stunning Japanese victory. Nationalism was surging. Militarism was gaining influence.
 
@@ -52,11 +52,7 @@ Abe's approach to introducing baseball emphasized its potential for developing J
 
 The following year, Abe achieved what many thought impossible — he organized Waseda's first baseball tour to the United States, where they would play against American collegiate teams. The 1906 tour was more than athletic exchange; it was cultural diplomacy.
 
-Waseda won 7 games and lost 19 against teams like Stanford, University of Chicago, and Wisconsin. But the scores were less important than the reception. American newspapers marveled at the Japanese team's discipline, sportsmanship, and tactical innovation. The Chicago Tribune wrote: "These young Japanese play baseball with a precision and courtesy that could teach our own players valuable lessons."
-
-Most memorably, when Waseda played the University of Wisconsin in Madison, a scheduling error meant no umpire was available. Rather than cancel the game, both teams agreed to officiate themselves — each team calling their own fouls and strikes. The game proceeded without a single dispute. American observers called it "the most remarkable display of sportsmanship in collegiate baseball history."
-
-Abe later wrote: "We lost most of our games in America, but we won something more valuable — the respect of our hosts and proof that bushido and baseball could indeed unite across any ocean."
+Waseda's team faced significant challenges during their American tour, winning 7 games while losing 19 against university teams. However, the tour was successful in demonstrating Japanese baseball's emphasis on discipline and sportsmanship. American observers noted the team's preparation and respectful approach to competition.
 
 ## A Legacy Measured in Generations: From Meiji to Modern Japan
 
@@ -64,15 +60,13 @@ Today, Japanese baseball commands a following that reaches far beyond Abe Isoo's
 
 But perhaps most remarkably, they have done so while embodying the very principles that Abe Isoo articulated over a century ago. Watch Ohtani bow to the pitcher's mound before each appearance. Observe how Japanese teams clean their dugouts after games, even in defeat. Notice the way Japanese players study their opponents with scholarly intensity. These are not accidents of culture — they are the living legacy of Abe Isoo's philosophy.
 
-The Japan national team has become one of the most successful in international competition, winning the inaugural World Baseball Classic in 2006 and again in 2009 and 2023. Each victory was celebrated not just for athletic achievement but as validation of what Abe called "the Japanese way of baseball" — combining individual excellence with team harmony, tactical precision with respectful competition.
+The Japan national team has become one of the most successful in international competition, winning the World Baseball Classic in 2006, 2009, and 2023. Each victory reflected the emphasis on preparation, teamwork, and respectful competition that characterized Abe's educational approach to baseball.
 
 None of this was inevitable. In the 1890s, many Japanese educators viewed Western sports with suspicion, seeing them as potentially corrupting influences that might undermine traditional values. It was Abe's genius to recognize that baseball could strengthen rather than weaken Japanese character — if approached with the proper spirit and philosophy.
 
 ## The Coaching Revolution: Methods That Transformed a Culture
 
-Abe Isoo's coaching methods were revolutionary for their time and remain influential today. He was among the first Japanese educators to combine Western training techniques with Eastern philosophical principles, creating what became known as the "Waseda System."
-
-**Detailed game analysis**: Abe kept meticulous records of every game — not just statistics, but notes on player attitudes, team harmony, and character development moments. These "baseball diaries" became teaching tools for future generations.
+Abe Isoo's coaching methods combined Western training techniques with Japanese educational philosophy. His emphasis on character development through athletics influenced Japanese baseball coaching for generations.
 
 **Mental training**: Long before sports psychology became mainstream, Abe taught meditation techniques and visualization exercises. Players would spend hours mentally rehearsing at-bats and defensive situations.
 
