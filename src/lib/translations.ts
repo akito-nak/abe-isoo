@@ -171,4 +171,8 @@ export function useTranslations(locale: string): Translation {
   return translations[locale] || translations.en;
 }
 
+export function getTranslations(locale: string): Translation {
+  return translations[locale] || translations.en;
+}
+
 export default translations;

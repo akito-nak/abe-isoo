@@ -1,5 +1,5 @@
 import { getPostData, getAllPostSlugs } from '@/lib/posts';
-import { useTranslations } from '@/lib/translations';
+import { getTranslations } from '@/lib/translations';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -57,7 +57,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function BlogPostPage({ params }: Props) {
   let post;
-  const t = useTranslations(params.locale);
+  const t = getTranslations(params.locale);
   
   try {
     post = await getPostData(params.slug, params.locale);

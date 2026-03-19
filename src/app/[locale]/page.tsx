@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/posts';
 import PostCard from '@/components/PostCard';
-import { useTranslations } from '@/lib/translations';
+import { getTranslations } from '@/lib/translations';
 import type { Metadata } from 'next';
 
 interface HomePageProps {
@@ -11,7 +11,7 @@ interface HomePageProps {
 export async function generateMetadata({
   params: { locale },
 }: HomePageProps): Promise<Metadata> {
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
   
   return {
     title: t.meta.siteTitle,
@@ -22,7 +22,7 @@ export async function generateMetadata({
 export default function HomePage({ params: { locale } }: HomePageProps) {
   const allPosts = getSortedPostsData(locale);
   const featuredPosts = allPosts.slice(0, 3);
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
 
   return (
     <>

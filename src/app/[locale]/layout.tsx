@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import '../globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { useTranslations } from '@/lib/translations';
+import { getTranslations } from '@/lib/translations';
 
 interface LocaleLayoutProps {
   children: React.ReactNode;
@@ -16,7 +16,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params: { locale },
 }: LocaleLayoutProps): Promise<Metadata> {
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
   
   return {
     metadataBase: new URL('https://abe-isoo.org'),

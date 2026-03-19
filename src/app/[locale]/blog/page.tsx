@@ -1,6 +1,6 @@
 import { getSortedPostsData } from '@/lib/posts';
 import PostCard from '@/components/PostCard';
-import { useTranslations } from '@/lib/translations';
+import { getTranslations } from '@/lib/translations';
 import type { Metadata } from 'next';
 
 interface BlogPageProps {
@@ -10,7 +10,7 @@ interface BlogPageProps {
 export async function generateMetadata({
   params: { locale },
 }: BlogPageProps): Promise<Metadata> {
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
   
   return {
     title: t.blog.title,
@@ -22,7 +22,7 @@ export async function generateMetadata({
 
 export default function BlogPage({ params: { locale } }: BlogPageProps) {
   const allPosts = getSortedPostsData(locale);
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
 
   return (
     <div style={{ backgroundColor: 'var(--cream)' }}>

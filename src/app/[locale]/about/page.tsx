@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { useTranslations } from '@/lib/translations';
+import { getTranslations } from '@/lib/translations';
 
 interface AboutPageProps {
   params: { locale: string };
@@ -9,7 +9,7 @@ interface AboutPageProps {
 export async function generateMetadata({
   params: { locale },
 }: AboutPageProps): Promise<Metadata> {
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
   return {
     title: t.about.title,
     description: locale === 'ja'
@@ -19,7 +19,7 @@ export async function generateMetadata({
 }
 
 export default function AboutPage({ params: { locale } }: AboutPageProps) {
-  const t = useTranslations(locale);
+  const t = getTranslations(locale);
 
   return (
     <div style={{ backgroundColor: 'var(--cream)' }}>
