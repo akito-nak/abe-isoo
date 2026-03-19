@@ -14,7 +14,7 @@ Abe's antiwar stance was not merely theoretical but involved active participatio
 
 ## The Tolstoy Correspondence
 
-Abe initiated correspondence with Leo Tolstoy by sending him both a letter and a paper containing an English article. Tolstoy responded with a letter written at Yasnaya Polyana, dated by Abe's son-in-law Hayao Nakahara as written between October 23 and November 5, 1904.
+Abe initiated correspondence with Leo Tolstoy by sending him both a letter and a paper containing an English article. Tolstoy responded with a letter written at Yasnaya Polyana, dated to between October 23 and November 5, 1904.
 
 In his response, addressed "Dear Friends Iso Abe," Tolstoy wrote that he had received both Abe's letter and his paper, thanking him for both. Tolstoy expressed: "Though I never doubted that there are in Japan a great many reasonable moral and religious men, who are opposed to the horrible crime of war, which is now perpetrated by both strayed and stupefied nations, I was very glad to get the proof of it. It is a great joy for me to know that I have friends and coworkers in Japan, with which I can be in friendly intercourse."
 
