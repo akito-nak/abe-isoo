@@ -1,28 +1,35 @@
 'use client';
 import Link from 'next/link';
 import { useState } from 'react';
+import LanguageSelector from './LanguageSelector';
+import { useTranslations } from '@/lib/translations';
 
-export default function Header() {
+interface HeaderProps {
+  locale: string;
+}
+
+export default function Header({ locale }: HeaderProps) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const t = useTranslations(locale);
 
   return (
     <header style={{ backgroundColor: 'var(--navy)' }} className="text-white shadow-lg">
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-        <Link href="/" className="flex flex-col leading-tight">
+        <Link href={`/${locale}`} className="flex flex-col leading-tight">
           <span className="text-xl font-bold" style={{ fontFamily: 'Playfair Display, serif', color: 'var(--gold)' }}>
-            Abe Isoo
+            {locale === 'ja' ? t.homepage.title : 'Abe Isoo'}
           </span>
           <span className="text-sm opacity-80" style={{ fontFamily: 'Noto Serif JP, serif' }}>
-            阿部磯雄
+            {locale === 'ja' ? t.homepage.subtitle : '阿部磯雄'}
           </span>
         </Link>
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-8">
           {[
-            { href: '/', label: 'Home' },
-            { href: '/about', label: 'About' },
-            { href: '/blog', label: 'Blog' },
+            { href: `/${locale}`, label: t.common.home },
+            { href: `/${locale}/about`, label: t.common.about },
+            { href: `/${locale}/blog`, label: t.common.blog },
           ].map(({ href, label }) => (
             <Link
               key={href}
@@ -33,6 +40,7 @@ export default function Header() {
               {label}
             </Link>
           ))}
+          <LanguageSelector locale={locale} />
         </nav>
 
         {/* Mobile menu button */}
@@ -51,9 +59,9 @@ export default function Header() {
       {menuOpen && (
         <nav className="md:hidden px-4 pb-4 flex flex-col gap-3" style={{ backgroundColor: 'var(--dark-navy)' }}>
           {[
-            { href: '/', label: 'Home' },
-            { href: '/about', label: 'About' },
-            { href: '/blog', label: 'Blog' },
+            { href: `/${locale}`, label: t.common.home },
+            { href: `/${locale}/about`, label: t.common.about },
+            { href: `/${locale}/blog`, label: t.common.blog },
           ].map(({ href, label }) => (
             <Link
               key={href}
@@ -64,6 +72,9 @@ export default function Header() {
               {label}
             </Link>
           ))}
+          <div className="py-2 border-t border-white/10 mt-2">
+            <LanguageSelector locale={locale} />
+          </div>
         </nav>
       )}
     </header>

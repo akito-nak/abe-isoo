@@ -14,22 +14,37 @@ export interface PostMeta {
   author: string;
   tags: string[];
   coverImage?: string;
+  readingTime?: string;
 }
 
 export interface Post extends PostMeta {
   content: string;
 }
 
-export function getSortedPostsData(): PostMeta[] {
-  if (!fs.existsSync(postsDirectory)) {
+function getPostsPath(locale: string = 'en'): string {
+  if (locale === 'en') {
+    return postsDirectory;
+  }
+  return path.join(postsDirectory, locale);
+}
+
+export function getSortedPostsData(locale: string = 'en'): PostMeta[] {
+  const currentPostsDirectory = getPostsPath(locale);
+  
+  if (!fs.existsSync(currentPostsDirectory)) {
+    // Fallback to English if locale-specific directory doesn't exist
+    if (locale !== 'en') {
+      return getSortedPostsData('en');
+    }
     return [];
   }
-  const fileNames = fs.readdirSync(postsDirectory);
+  
+  const fileNames = fs.readdirSync(currentPostsDirectory);
   const allPostsData = fileNames
     .filter((name) => name.endsWith('.md'))
     .map((fileName) => {
       const slug = fileName.replace(/\.md$/, '');
-      const fullPath = path.join(postsDirectory, fileName);
+      const fullPath = path.join(currentPostsDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const { data } = matter(fileContents);
       return {
@@ -40,6 +55,7 @@ export function getSortedPostsData(): PostMeta[] {
         author: data.author || 'Editor',
         tags: data.tags || [],
         coverImage: data.coverImage,
+        readingTime: data.readingTime,
       };
     });
 
@@ -56,8 +72,18 @@ export function getAllPostSlugs(): { slug: string }[] {
     .map((fileName) => ({ slug: fileName.replace(/\.md$/, '') }));
 }
 
-export async function getPostData(slug: string): Promise<Post> {
-  const fullPath = path.join(postsDirectory, `${slug}.md`);
+export async function getPostData(slug: string, locale: string = 'en'): Promise<Post> {
+  let fullPath = path.join(getPostsPath(locale), `${slug}.md`);
+  
+  // Check if locale-specific post exists, otherwise fallback to English
+  if (locale !== 'en' && !fs.existsSync(fullPath)) {
+    fullPath = path.join(getPostsPath('en'), `${slug}.md`);
+  }
+  
+  if (!fs.existsSync(fullPath)) {
+    throw new Error(`Post not found: ${slug}`);
+  }
+  
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
 
@@ -72,6 +98,7 @@ export async function getPostData(slug: string): Promise<Post> {
     author: data.author || 'Editor',
     tags: data.tags || [],
     coverImage: data.coverImage,
+    readingTime: data.readingTime,
     content: contentHtml,
   };
 }

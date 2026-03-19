@@ -1,53 +1,7 @@
-import Link from 'next/link';
-import { getSortedPostsData } from '@/lib/posts';
-import PostCard from '@/components/PostCard';
-import type { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  title: 'Abe Isoo (阿部磯雄) — Father of Japanese Baseball & Socialist Pioneer',
-  description:
-    'A memorial website dedicated to Abe Isoo (1865–1949), the Father of Japanese Baseball, socialist, Christian pacifist, and friend of Leo Tolstoy.',
-};
-
 export default function HomePage() {
-  const allPosts = getSortedPostsData();
-  const featuredPosts = allPosts.slice(0, 3);
-
-  return (
-    <>
-      {/* Hero Section */}
-      <section
-        className="relative overflow-hidden py-24 md:py-36"
-        style={{ backgroundColor: 'var(--navy)' }}
-      >
-        {/* Decorative baseball diamond */}
-        <div
-          className="absolute right-0 top-1/2 -translate-y-1/2 w-96 h-96 opacity-5 rotate-45"
-          style={{ border: '3px solid var(--gold)' }}
-        />
-        <div
-          className="absolute right-12 top-1/2 -translate-y-1/2 w-64 h-64 opacity-5 rotate-45"
-          style={{ border: '2px solid var(--gold)' }}
-        />
-
-        <div className="max-w-6xl mx-auto px-4 relative z-10">
-          <div className="max-w-3xl">
-            {/* Japanese mon / crest decoration */}
-            <div className="mb-6 text-4xl">⚾</div>
-            <p
-              className="text-sm uppercase tracking-widest mb-4 font-medium"
-              style={{ color: 'var(--gold)' }}
-            >
-              1865 – 1949
-            </p>
-            <h1
-              className="text-4xl md:text-6xl font-bold text-white mb-4 leading-tight"
-              style={{ fontFamily: 'Playfair Display, serif' }}
-            >
-              Abe Isoo
-            </h1>
-            <p
-              className="text-2xl md:text-3xl mb-6 font-light"
+  // This page should not be reached due to middleware redirect
+  return null;
+}
               style={{ color: 'var(--gold)', fontFamily: 'Noto Serif JP, serif' }}
             >
               阿部磯雄
