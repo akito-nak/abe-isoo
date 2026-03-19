@@ -3,12 +3,13 @@ import Link from 'next/link';
 import { getTranslations } from '@/lib/translations';
 
 interface AboutPageProps {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: AboutPageProps): Promise<Metadata> {
+  const { locale } = await params;
   const t = getTranslations(locale);
   return {
     title: t.about.title,
@@ -18,7 +19,8 @@ export async function generateMetadata({
   };
 }
 
-export default function AboutPage({ params: { locale } }: AboutPageProps) {
+export default async function AboutPage({ params }: AboutPageProps) {
+  const { locale } = await params;
   const t = getTranslations(locale);
 
   return (

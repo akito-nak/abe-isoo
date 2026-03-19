@@ -4,12 +4,13 @@ import { getTranslations } from '@/lib/translations';
 import type { Metadata } from 'next';
 
 interface BlogPageProps {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: BlogPageProps): Promise<Metadata> {
+  const { locale } = await params;
   const t = getTranslations(locale);
   
   return {
@@ -20,7 +21,8 @@ export async function generateMetadata({
   };
 }
 
-export default function BlogPage({ params: { locale } }: BlogPageProps) {
+export default async function BlogPage({ params }: BlogPageProps) {
+  const { locale } = await params;
   const allPosts = getSortedPostsData(locale);
   const t = getTranslations(locale);
 

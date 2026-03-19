@@ -8,7 +8,7 @@ import { notFound } from 'next/navigation';
 export const revalidate = 60;
 
 interface Props {
-  params: { slug: string; locale: string };
+  params: Promise<{ slug: string; locale: string }>;
 }
 
 export async function generateStaticParams() {
@@ -24,8 +24,9 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug, locale } = await params;
   try {
-    const post = await getPostData(params.slug);
+    const post = await getPostData(slug, locale);
     return {
       title: post.title,
       description: post.excerpt,
@@ -36,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         publishedTime: post.date,
         authors: [post.author],
         tags: post.tags,
-        locale: params.locale === 'ja' ? 'ja_JP' : 'en_US',
+        locale: locale === 'ja' ? 'ja_JP' : 'en_US',
       },
       twitter: {
         card: 'summary_large_image',
@@ -45,8 +46,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
       alternates: {
         languages: {
-          'en': `/en/blog/${params.slug}`,
-          'ja': `/ja/blog/${params.slug}`,
+          'en': `/en/blog/${slug}`,
+          'ja': `/ja/blog/${slug}`,
         },
       },
     };
@@ -56,11 +57,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function BlogPostPage({ params }: Props) {
+  const { slug, locale } = await params;
   let post;
-  const t = getTranslations(params.locale);
+  const t = getTranslations(locale);
   
   try {
-    post = await getPostData(params.slug, params.locale);
+    post = await getPostData(slug, locale);
   } catch {
     notFound();
   }
@@ -88,7 +90,7 @@ export default async function BlogPostPage({ params }: Props) {
             {post.title}
           </h1>
           <p className="text-sm text-white/60">
-            {new Date(post.date).toLocaleDateString(params.locale === 'ja' ? 'ja-JP' : 'en-US', {
+            {new Date(post.date).toLocaleDateString(locale === 'ja' ? 'ja-JP' : 'en-US', {
               year: 'numeric',
               month: 'long',
               day: 'numeric',
@@ -117,7 +119,7 @@ export default async function BlogPostPage({ params }: Props) {
         )}
         
         {/* Note for Japanese readers */}
-        {params.locale === 'ja' && (
+        {locale === 'ja' && (
           <div className="mb-8 p-4 bg-yellow-50 border border-yellow-200 rounded">
             <p className="text-sm text-yellow-800">
               <strong>注記：</strong> この記事は現在英語で書かれています。日本語翻訳版を近日中に公開予定です。
@@ -135,7 +137,7 @@ export default async function BlogPostPage({ params }: Props) {
       <div className="max-w-4xl mx-auto px-4 pb-16">
         <div className="border-t pt-8" style={{ borderColor: 'var(--gold)' }}>
           <Link
-            href={`/${params.locale}/blog`}
+            href={`/${locale}/blog`}
             className="text-sm font-semibold uppercase tracking-widest"
             style={{ color: 'var(--red)' }}
           >

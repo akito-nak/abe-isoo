@@ -5,12 +5,13 @@ import { getTranslations } from '@/lib/translations';
 import type { Metadata } from 'next';
 
 interface HomePageProps {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: HomePageProps): Promise<Metadata> {
+  const { locale } = await params;
   const t = getTranslations(locale);
   
   return {
@@ -19,7 +20,8 @@ export async function generateMetadata({
   };
 }
 
-export default function HomePage({ params: { locale } }: HomePageProps) {
+export default async function HomePage({ params }: HomePageProps) {
+  const { locale } = await params;
   const allPosts = getSortedPostsData(locale);
   const featuredPosts = allPosts.slice(0, 3);
   const t = getTranslations(locale);

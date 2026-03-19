@@ -6,7 +6,7 @@ import { getTranslations } from '@/lib/translations';
 
 interface LocaleLayoutProps {
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }
 
 export async function generateStaticParams() {
@@ -14,8 +14,9 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: LocaleLayoutProps): Promise<Metadata> {
+  const { locale } = await params;
   const t = getTranslations(locale);
   
   return {
@@ -71,10 +72,11 @@ export async function generateMetadata({
   };
 }
 
-export default function LocaleLayout({
+export default async function LocaleLayout({
   children,
-  params: { locale },
+  params,
 }: LocaleLayoutProps) {
+  const { locale } = await params;
   return (
     <html lang={locale}>
       <body className="min-h-screen flex flex-col">
