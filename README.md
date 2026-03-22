@@ -15,6 +15,7 @@ This site celebrates the remarkable life of Abe Isoo through:
 - **A rich biography** covering his early life, Christian faith, socialist politics, Tolstoy correspondence, and baseball legacy
 - **A blog** with articles and historical essays about his life and times
 - **Beautiful design** inspired by Japanese aesthetics and baseball culture
+- **Free content management** via [Decap CMS](https://decapcms.org/) (formerly Netlify CMS)
 
 ---
 
