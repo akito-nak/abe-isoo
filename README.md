@@ -4,6 +4,8 @@ A responsive memorial website dedicated to **Abe Isoo** (1865–1949) — Japane
 
 Built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Incremental Static Regeneration (ISR)**.
 
+URL: https://abe-isoo.vercel.app
+
 ---
 
 ## About the Site
