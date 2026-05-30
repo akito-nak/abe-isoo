@@ -89,16 +89,16 @@ export default async function HomePage({ params }: HomePageProps) {
             <div className="order-1 lg:order-2">
               <div className="relative aspect-[3/4] md:aspect-[4/5] lg:aspect-[3/4] max-w-md mx-auto lg:max-w-none">
                 <ResponsiveHeroImage
-                  src="/images/abe-isoo-portrait.jpg"
-                  alt={locale === 'ja' 
-                    ? '阿部磯雄の肖像写真（1935年頃）' 
-                    : 'Portrait photograph of Abe Isoo (circa 1935)'
+                  src="/images/abe-isoo-portrait.webp"
+                  alt={locale === 'ja'
+                    ? '阿部磯雄の肖像イラスト'
+                    : 'Illustrated portrait of Abe Isoo'
                   }
                 />
                 {/* Image Credit */}
                 <div className="absolute bottom-2 left-2 right-2">
                   <div className="text-xs text-white/70 bg-black/30 backdrop-blur-sm px-2 py-1 rounded">
-                    {locale === 'ja' ? '阿部磯雄（1935年頃）' : 'Abe Isoo (circa 1935)'}
+                    {locale === 'ja' ? '阿部磯雄（イラスト）' : 'Abe Isoo (illustration)'}
                   </div>
                 </div>
               </div>
